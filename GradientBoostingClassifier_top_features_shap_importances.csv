@@ -1,0 +1,67 @@
+Feature,SHAP Importance
+Contract,0.8299837237375243
+Number of Referrals,0.31057863602082025
+Senior Citizen,0.2934839590940178
+Dependents,0.28323279916469474
+Tenure in Months,0.27638862564701067
+Referred a Friend,0.2731908308859879
+Payment Method,0.21199765791886402
+Streaming TV,0.2059865337362158
+Paperless Billing,0.18226018999856206
+Gender,0.13924381251707676
+Streaming Music,0.13741671721586032
+Multiple Lines,0.13566928890470095
+Avg Monthly GB Download,0.12248649434740805
+Internet Type,0.10434117920831336
+Offer,0.09287353118707936
+Unlimited Data,0.09188472454738424
+Online Security,0.0845449823525461
+Monthly Charge,0.08105809358503122
+Under 30,0.07757386509007189
+Married,0.07109606434124835
+Premium Tech Support,0.07029179954874386
+Online Backup,0.062375868231015485
+Streaming Movies,0.054842565897037406
+Zip Code,0.0495126976043116
+Average wages and salaries,0.04273119934666269
+Total Charges,0.0421352158365276
+Device Protection Plan,0.040348673607787634
+Population,0.03680572258983173
+Total Revenue,0.02972735317720997
+Average earnings per job,0.02892705142253719
+Farm proprietors employment,0.027893131459253307
+Internet Service,0.02396340857606384
+Total Extra Data Charges,0.02039852824556116
+Total Long Distance Charges,0.020224954480339043
+Per capita net earnings,0.016491021921651198
+Unemployment insurance compensation,0.014438896299567102
+Number of Dependents,0.012970098919149757
+Age,0.01032120271678564
+Farm proprietors income,0.007897328336343
+Per capita unemployment insurance compensation,0.007541928080342512
+Average nonfarm proprietors income,0.00671151705100166
+Retirement and other,0.006080827094452676
+Avg Monthly Long Distance Charges,0.005055061990242222
+Proprietors income,0.0043479981886972476
+Nonfarm proprietors income,0.0040388115528826735
+Total Refunds,0.0012506382369440938
+"Per capita dividends, interest, and rent",0.0011047048418274248
+Per capita retirement and other,0.0005785013191977851
+"Dividends, interest, and rent",0.0005493702963354512
+Total employment,0.0004764596543450279
+Net earnings by place of residence,2.2906451409565656e-05
+Personal current transfer receipts,0.0
+Per capita personal current transfer receipts,0.0
+Proprietors employment,0.0
+Wage and salary employment,0.0
+Phone Service,0.0
+Personal incomeY,0.0
+Personal incomeX,0.0
+Earnings by place of work,0.0
+Employer contributions,0.0
+Supplements to wages and salaries,0.0
+Per capita income maintenance benefits,0.0
+Nonfarm proprietors employment,0.0
+Income maintenance benefits,0.0
+Per capita personal income,0.0
+Wages and salaries,0.0
